@@ -2,6 +2,11 @@
 
 Git nuestro ue estas en los cielos
 santificados seant tus commits
+venga a nosotros tu log
+En el local como en remote
+Danos hoy nuestro pull de cada día
+Perdona nuestros conflictos
+Como también
 
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
