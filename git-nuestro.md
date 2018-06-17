@@ -8,6 +8,7 @@ Danos hoy nuestro pull de cada día
 Perdona nuestros conflictos
 Como también perdonamos
 Y líbranos de SVN
+git commit -ammend
 
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
