@@ -6,7 +6,8 @@ venga a nosotros tu log
 En el local como en remote
 Danos hoy nuestro pull de cada día
 Perdona nuestros conflictos
-Como también
+Como también perdonamos
+Y líbranos de SVN
 
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
