@@ -1,5 +1,15 @@
 # MacDown
 
+Git nuestro ue estas en los cielos
+santificados seant tus commits
+venga a nosotros tu log
+En el local como en remote
+Danos hoy nuestro pull de cada día
+Perdona nuestros conflictos
+Como también perdonamos
+Y líbranos de SVN
+
+
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
 
 Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
